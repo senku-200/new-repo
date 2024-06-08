@@ -375,13 +375,12 @@ footer {
         gap: 20px;
         align-items: center;
         justify-content: center;
+        margin-bottom: 50px;
     }
 
     .product_con {
         
         width: 100%;
-        /* flex-direction: column; */
-        /* align-items: center; */
     }
 
     .product_logo_con {
