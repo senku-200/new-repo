@@ -338,7 +338,7 @@ footer {
 
 @media (max-width: 480px) {
     #static-con{
-        padding: 20px 10px; 
+        padding: 20px; 
     }
     
     #static-con p:first-child{
